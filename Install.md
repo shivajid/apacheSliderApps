@@ -29,5 +29,5 @@ Building Apache Slider
 * Now you have the code ready to run
 
 
-
+Check the wiki site of this repository to read more on using the Slider Repository.
 
