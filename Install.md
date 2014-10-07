@@ -9,7 +9,7 @@ Prerequiste
 ===========
 * HDP 2.1 Installated
 * Oracle JDK 1.6 (64-bit)
-* Python 2.6 (By deafult it is installed with CentOS)
+* Python 2.6 (By deafult it is installed with CentOS 6.5)
 * Maven 3.0 (3.1 is not supported)
 
 
