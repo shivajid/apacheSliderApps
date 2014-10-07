@@ -1,0 +1,1 @@
+$ ./slider create sock1  --image hdfs://{host}/user/yarn/agent/slider-agent-0.50.tar.gz --template /root/Slider-Projects/SocketServerSlider/appConfig.json --resources /root/Slider-Projects/SocketServerSlider/resources.json
