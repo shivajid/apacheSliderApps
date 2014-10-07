@@ -29,5 +29,5 @@ Building Apache Slider
 * Now you have the code ready to run
 
 
-Check the  <a href="https://github.com/shivajid/apacheSliderApps/wiki/Apache-Slider----All-kids-in-school">wiki</a>site of this repository to read more on using the Slider Repository.
+Check the  <em><a href="https://github.com/shivajid/apacheSliderApps/wiki/Apache-Slider----All-kids-in-school">wiki</a> </em> site of this repository to read more on using the Slider Repository.
 
