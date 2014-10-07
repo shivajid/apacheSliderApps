@@ -2,4 +2,9 @@ apacheSliderApps
 ================
 
 This is a repository for all Slider Apps
-<iframe width="560" height="315" src="//www.youtube.com/embed/ZYXVNxmMchc" frameborder="0" allowfullscreen></iframe>
+
+Step 1) Read the Install.md to install Apache Slider
+
+Step 2) Go through the wiki to get more information
+
+Step 3) Read the Apache Slider documentation
