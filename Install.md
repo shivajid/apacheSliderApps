@@ -15,19 +15,20 @@ Prerequiste
 
 Install Git
 ============
-* yum install git
+* <code>yum install git</code>
 
 Building Apache Slider
 =====================
 * git clone https://github.com/apache/incubator-slider.git
 * It should create a folder called 'incubator-slider
 * Using Maven 3.2 build the slider project
-* mvn clean site:site stage:stage package -DskipTests
+* ''mvn clean site:site stage:stage package -DskipTests
 * You should see the application built
 * The built project is under 'incubator-slider/slider-assembly/target/slider-0.50.2-incubating-all.zip
 * unzip slider-0.50.2-incubating-all.zip
 * Now you have the code ready to run
 
 
-Check the wiki site of this repository to read more on using the Slider Repository.
+Check the  
+<a href="https://github.com/shivajid/apacheSliderApps/wiki/Apache-Slider----All-kids-in-school">wiki</a>site of this repository to read more on using the Slider Repository.
 
