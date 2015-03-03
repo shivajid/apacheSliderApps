@@ -36,8 +36,16 @@ In the above example I have kept my zip file in the `/tmp` folder
 
 **Create the package**
       
-``/usr/hdp/current/slider-client/bin/./slider create *c3* --template appConfig.json --resources resources.json``
+``/usr/hdp/current/slider-client/bin/./slider create c3 --template appConfig.json --resources resources.json``
 
-Above I am creating a new Instance with name c3.
+Above I am creating a new Instance with name *c3*. You can create an instance with any name.
+
+**Check Status**
+
+      /usr/hdp/current/slider-client/bin/./slider status c3
       
+*You are done deloying a simple slider app!*
 
+**You can use the Slider View to manage the lifecylce of this application**
+
+Thanks :- Please give feedback to sdutta@hortonworks.com
