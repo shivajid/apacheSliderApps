@@ -19,9 +19,9 @@ This is a simple Java program that spawns 3 threads that listens on ports 63999,
           |-- 
       --appConfig.json
       --resources.json
-   ```
+```
    
-** Package Socket Server **
+* Package Socket Server *
 
 From the root of the folder zip up the package
 
