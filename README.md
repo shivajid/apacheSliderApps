@@ -20,20 +20,21 @@ This is a simple Java program that spawns 3 threads that listens on ports 63999,
             --appConfig.json
             --resources.json
    
-**Package Socket Server **
+**Package Socket Server**
+
 From the root of the folder zip up the package
 ``
 zip -r socketserver.zip *
 ``
 
-** Install the package**
+**Install the package**
 
       su yarn
       /usr/hdp/current/slider-client/bin/./slider install-package --name SocketServer --package /tmp/socketserver.zip
       
 In the above example I have kept my zip file in the `/tmp` folder
 
-** Create the package**
+**Create the package**
       
 ``/usr/hdp/current/slider-client/bin/./slider create c2 --template appConfig.json --resources resources.json``
       
