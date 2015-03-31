@@ -1,5 +1,5 @@
 
-* Increase the memory setting of *
+### Increase the memory setting of 
 
 ```
   yarn.nodemanager.resource.memory-mb - This is the size for the container
